@@ -54,3 +54,27 @@ comments
 - top comments(momst liked comments) separate sorted strcture (e.g., a sorted set in Redis per video) rather than sorting on read.
 
 
+5 YOE
+
+Question 1: Design YouTube's metadata database layer to scale to billions of videos and users globally
+
+step 1
+1. since youtube his read heavy all are optimzation are centered around reading
+
+step 2 sharding
+
+what is multi-leader or leader-per-region replication model
+
+step 3: trending/popular video metadata sits in cache before DB
+
+DB for youtube prefers evenuntal consistency
+
+Question 2: Design the "recommended videos" / home feed system
+
+tradeoff
+
+computing/generating data in real time is expensive
+new users without any data they are recommended videos based on popularity and trending
+staleness 
+exploartion vs exploitation: sometimes recommend new videos 
+
