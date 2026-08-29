@@ -45,3 +45,15 @@ A user can save videos to 'Watch Later' or create custom playlists. How would yo
 What happens if a video in someone's playlist gets deleted by its owner? How does your schema handle that?
 
 
+how video upload notification is pushed to subscribers?
+
+
+A user has subscribed to multiple channels. what if all the channels post video at the same time. will this create a write amplication problem or the notification will self DoDS itself?
+
+
+in case of livestreams all the users must be notified regardless of the subscriber count then how does youtube handle those notification?
+
+
+explain how youtube servers works?
+
+
