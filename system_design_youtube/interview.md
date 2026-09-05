@@ -60,12 +60,12 @@ explain how youtube servers works?
 
 design a youtube like private application but where the number users are 10k
 - can I use third party cloud services such as AWS etc yes
-- cloud cost is a limit - No
-- are those 10K user scattered are in the same regions
+- cloud cost has a limit - No
+- are those 10K user scattered or are in the same regions - in the same region
 - do we need to store multiple resolution - Yes
 - can all the 10k user upload videos or it is a subset of 10K user (some user will be more active than other users but everyone can upload video)
 - is there a limit on number of videos each user can upload - 5 each day
-- is there a max duration of vidos that out app can support - user cannot upload video longer than 15 minutes
+- is there a max duration of vidos that our app can support - user cannot upload video longer than 15 minutes
 - app should support like, share, subscribe, comment
 - do we need to notifiy user on certain events like vido posted - Yes
 - Is the raw upload kept in BLOB permanently, or deleted after transcoding? Worth a one-line decision (usually: keep raw for a while for re-transcode/audit, then lifecycle-delete to save cost).
@@ -73,7 +73,7 @@ design a youtube like private application but where the number users are 10k
 
 where can youtube break?
 - if user upload videos at higher rate(producer) than the rate at which transcoding takes place(consumer) so the message queue can fillup completely?
-- transcoding process what if chunks do not get encoding properly ie what possible can go wrong in transcoding process
+- what possible can go wrong in transcoding process
 - what if the video upload fails midway
 
 
