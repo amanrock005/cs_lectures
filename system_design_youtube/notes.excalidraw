@@ -6,8 +6,8 @@
     {
       "id": "TkNHGfYruL-ASKNMsoIL7",
       "type": "text",
-      "x": -4971.848481689135,
-      "y": -584.964021393365,
+      "x": -4985.735394826404,
+      "y": -586.6337550798988,
       "width": 785.259521484375,
       "height": 500,
       "angle": 0,
@@ -25,11 +25,11 @@
       "index": "b4D",
       "roundness": null,
       "seed": 1385028897,
-      "version": 1018,
-      "versionNonce": 134794080,
+      "version": 1132,
+      "versionNonce": 959682406,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491701,
       "link": null,
       "locked": false,
       "text": "What core features would you include in v1 (as a fresher-level design, not \nthe full YouTube)?\n\n1. There are more viewers than uploaders ie it is read heavy\nOne video has multiple viewers like one to many relationship\n\n2. availablity over consistency\nShowing stale like counts or view counts is okay but throwing error for such \na trivial data is not good. The video should always be available to watch\n\n3. low latency\nRegardless of users location the playback should be within 1-2 seconds\n\n4. high scalabilty\nThere are hundreds and millions of user so the system should be able to handle \nthe load and should be scalable\n\n5. once a upload is successful do not loose its metadata\n\n",
@@ -40,13 +40,14 @@
       "containerId": null,
       "originalText": "What core features would you include in v1 (as a fresher-level design, not \nthe full YouTube)?\n\n1. There are more viewers than uploaders ie it is read heavy\nOne video has multiple viewers like one to many relationship\n\n2. availablity over consistency\nShowing stale like counts or view counts is okay but throwing error for such \na trivial data is not good. The video should always be available to watch\n\n3. low latency\nRegardless of users location the playback should be within 1-2 seconds\n\n4. high scalabilty\nThere are hundreds and millions of user so the system should be able to handle \nthe load and should be scalable\n\n5. once a upload is successful do not loose its metadata\n\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "KI9_1hHO9P88bcUTCxgul",
       "type": "rectangle",
-      "x": -4753.734064873548,
-      "y": -1046.6790738601574,
+      "x": -4767.620978010817,
+      "y": -1048.3488075466912,
       "width": 275.68649340394535,
       "height": 62.96543367867889,
       "angle": 0,
@@ -66,19 +67,19 @@
         "type": 3
       },
       "seed": 60683105,
-      "version": 297,
-      "versionNonce": 1469603680,
+      "version": 411,
+      "versionNonce": 1926740646,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491701,
       "link": null,
       "locked": false
     },
     {
       "id": "Xji7w4h54gPL35m7SVJVQ",
       "type": "text",
-      "x": -4666.94387250564,
-      "y": -1031.9507782153232,
+      "x": -4680.830785642909,
+      "y": -1033.620511901857,
       "width": 120.21990966796875,
       "height": 25,
       "angle": 0,
@@ -96,11 +97,11 @@
       "index": "b4F",
       "roundness": null,
       "seed": 1655102415,
-      "version": 216,
-      "versionNonce": 940929888,
+      "version": 330,
+      "versionNonce": 43349478,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491701,
       "link": null,
       "locked": false,
       "text": "requirements",
@@ -111,13 +112,14 @@
       "containerId": null,
       "originalText": "requirements",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "hvE26ZSKwdhizUNtR3IQk",
       "type": "arrow",
-      "x": -4645.461121341641,
-      "y": -959.9719162223943,
+      "x": -4659.34803447891,
+      "y": -961.6416499089281,
       "width": 249.4594161375827,
       "height": 80.67623670832461,
       "angle": 0,
@@ -137,11 +139,11 @@
         "type": 2
       },
       "seed": 328358959,
-      "version": 227,
-      "versionNonce": 802162528,
+      "version": 341,
+      "versionNonce": 561629478,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491701,
       "link": null,
       "locked": false,
       "points": [
@@ -163,8 +165,8 @@
     {
       "id": "YNgZZSTxP9M6hPRBQTB1d",
       "type": "arrow",
-      "x": -4597.69229697487,
-      "y": -963.1565045135123,
+      "x": -4611.57921011214,
+      "y": -964.8262382000462,
       "width": 273.8745930361545,
       "height": 78.5531778475792,
       "angle": 0,
@@ -184,11 +186,11 @@
         "type": 2
       },
       "seed": 145958561,
-      "version": 232,
-      "versionNonce": 2065177440,
+      "version": 346,
+      "versionNonce": 1592898662,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491701,
       "link": null,
       "locked": false,
       "points": [
@@ -210,8 +212,8 @@
     {
       "id": "ZIzotTfOezo637YHplyQ7",
       "type": "rectangle",
-      "x": -4967.479724213276,
-      "y": -846.5558658158611,
+      "x": -4981.366637350546,
+      "y": -848.225599502395,
       "width": 275.68649340394535,
       "height": 62.96543367867889,
       "angle": 0,
@@ -231,19 +233,19 @@
         "type": 3
       },
       "seed": 589383471,
-      "version": 346,
-      "versionNonce": 1279111008,
+      "version": 460,
+      "versionNonce": 1422538662,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491701,
       "link": null,
       "locked": false
     },
     {
       "id": "IauffkpDKenPp9CVAyDZS",
       "type": "text",
-      "x": -4880.689531845368,
-      "y": -831.827570171027,
+      "x": -4894.576444982637,
+      "y": -833.4973038575608,
       "width": 95.97991943359375,
       "height": 25,
       "angle": 0,
@@ -261,11 +263,11 @@
       "index": "b4J",
       "roundness": null,
       "seed": 1559136591,
-      "version": 275,
-      "versionNonce": 194036576,
+      "version": 389,
+      "versionNonce": 1529893606,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491701,
       "link": null,
       "locked": false,
       "text": "functional",
@@ -276,13 +278,14 @@
       "containerId": null,
       "originalText": "functional",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "nIIkrlIfPkDcUjPBAMMSv",
       "type": "rectangle",
-      "x": -4464.31477421662,
-      "y": -855.0481012588427,
+      "x": -4478.20168735389,
+      "y": -856.7178349453766,
       "width": 275.68649340394535,
       "height": 62.96543367867889,
       "angle": 0,
@@ -302,19 +305,19 @@
         "type": 3
       },
       "seed": 554131201,
-      "version": 336,
-      "versionNonce": 392255328,
+      "version": 450,
+      "versionNonce": 1018234406,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491701,
       "link": null,
       "locked": false
     },
     {
       "id": "fJ_ayYUIn4N4LbHR4a0oy",
       "type": "text",
-      "x": -4377.524581848711,
-      "y": -840.3198056140086,
+      "x": -4391.41149498598,
+      "y": -841.9895393005424,
       "width": 137.0198974609375,
       "height": 25,
       "angle": 0,
@@ -332,11 +335,11 @@
       "index": "b4L",
       "roundness": null,
       "seed": 1906693857,
-      "version": 269,
-      "versionNonce": 67070816,
+      "version": 383,
+      "versionNonce": 1782141286,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491701,
       "link": null,
       "locked": false,
       "text": "non functional",
@@ -347,13 +350,14 @@
       "containerId": null,
       "originalText": "non functional",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "DnZ8av78WIyOuoGzwJkHY",
       "type": "text",
-      "x": -4998.430929793181,
-      "y": -751.5864437116298,
+      "x": -5012.317842930451,
+      "y": -753.2561773981637,
       "width": 428.09967041015625,
       "height": 50,
       "angle": 0,
@@ -371,11 +375,11 @@
       "index": "b4M",
       "roundness": null,
       "seed": 1927338767,
-      "version": 209,
-      "versionNonce": 1538981728,
+      "version": 323,
+      "versionNonce": 789984422,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491701,
       "link": null,
       "locked": false,
       "text": "can a user click something to trigger this?\" \n— if yes, it's functional",
@@ -386,13 +390,14 @@
       "containerId": null,
       "originalText": "can a user click something to trigger this?\" \n— if yes, it's functional",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "fnXhiLImuVbtne3fPAR7-",
       "type": "text",
-      "x": -4474.5321277647445,
-      "y": -768.6869980805106,
+      "x": -4488.419040902014,
+      "y": -770.3567317670445,
       "width": 599.239501953125,
       "height": 50,
       "angle": 0,
@@ -410,11 +415,11 @@
       "index": "b4N",
       "roundness": null,
       "seed": 313758447,
-      "version": 206,
-      "versionNonce": 1592005472,
+      "version": 320,
+      "versionNonce": 1693757414,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "If it's about speed/scale/reliability/consistency that applies \nunderneath all features, it's non-functional.",
@@ -425,13 +430,14 @@
       "containerId": null,
       "originalText": "If it's about speed/scale/reliability/consistency that applies \nunderneath all features, it's non-functional.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "z6Cb2FPCK-wYbe75MuH_U",
       "type": "text",
-      "x": -5468.227294975115,
-      "y": 83.97020531904809,
+      "x": -5482.114208112384,
+      "y": 82.30047163251425,
       "width": 456.23974609375,
       "height": 75,
       "angle": 0,
@@ -449,11 +455,11 @@
       "index": "b4O",
       "roundness": null,
       "seed": 1618237441,
-      "version": 504,
-      "versionNonce": 1137354592,
+      "version": 618,
+      "versionNonce": 669106982,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "Q2. Design high level architecture of YouTube \n\n",
@@ -464,13 +470,14 @@
       "containerId": null,
       "originalText": "Q2. Design high level architecture of YouTube \n\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "XEQqJRmDQospXsz93YqYo",
       "type": "rectangle",
-      "x": -5427.826973130184,
-      "y": 545.2809432119813,
+      "x": -5441.713886267454,
+      "y": 543.6112095254474,
       "width": 132.8488258508186,
       "height": 41.026843277458624,
       "angle": 0,
@@ -490,28 +497,24 @@
         "type": 3
       },
       "seed": 91864335,
-      "version": 544,
-      "versionNonce": 1030952608,
+      "version": 659,
+      "versionNonce": 172650086,
       "isDeleted": false,
       "boundElements": [
         {
           "type": "text",
           "id": "nmSCcYoCinSwKc9biPA_A"
-        },
-        {
-          "id": "InQkYBtd9W3kMNfUAqQCj",
-          "type": "arrow"
         }
       ],
-      "updated": 1788321392099,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "nmSCcYoCinSwKc9biPA_A",
       "type": "text",
-      "x": -5397.742533654482,
-      "y": 553.2943648507108,
+      "x": -5411.629446791751,
+      "y": 551.624631164177,
       "width": 72.67994689941406,
       "height": 25,
       "angle": 0,
@@ -529,11 +532,11 @@
       "index": "b4Q",
       "roundness": null,
       "seed": 229582881,
-      "version": 503,
-      "versionNonce": 1511018336,
+      "version": 617,
+      "versionNonce": 1224454566,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "uploads",
@@ -544,13 +547,14 @@
       "containerId": "XEQqJRmDQospXsz93YqYo",
       "originalText": "uploads",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "5toGsDaXiN66mqkbQAe1b",
       "type": "arrow",
-      "x": -5279.9589357389,
-      "y": 565.8798927145659,
+      "x": -5293.84584887617,
+      "y": 564.2101590280321,
       "width": 96.70613058258118,
       "height": 0,
       "angle": 0,
@@ -570,11 +574,11 @@
         "type": 2
       },
       "seed": 74096321,
-      "version": 493,
-      "versionNonce": 101671776,
+      "version": 607,
+      "versionNonce": 2132970726,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -596,8 +600,8 @@
     {
       "id": "q8XrXYaWaOcQ9VYE-S9II",
       "type": "rectangle",
-      "x": -5169.295951081553,
-      "y": 537.5518342610827,
+      "x": -5183.182864218822,
+      "y": 535.8821005745489,
       "width": 156.29273629508066,
       "height": 61.54026491618799,
       "angle": 0,
@@ -617,8 +621,8 @@
         "type": 3
       },
       "seed": 2083325967,
-      "version": 437,
-      "versionNonce": 151779168,
+      "version": 551,
+      "versionNonce": 1514930214,
       "isDeleted": false,
       "boundElements": [
         {
@@ -630,15 +634,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "slUnXelrKqsRLxq4mJpzW",
       "type": "text",
-      "x": -5154.319535326591,
-      "y": 543.3219667191767,
+      "x": -5168.20644846386,
+      "y": 541.6522330326428,
       "width": 126.33990478515625,
       "height": 50,
       "angle": 0,
@@ -656,11 +660,11 @@
       "index": "b4T",
       "roundness": null,
       "seed": 1522037199,
-      "version": 440,
-      "versionNonce": 659950432,
+      "version": 554,
+      "versionNonce": 1315244902,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "api or \nload balancer",
@@ -671,13 +675,14 @@
       "containerId": "q8XrXYaWaOcQ9VYE-S9II",
       "originalText": "api or \nload balancer",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "RFCX-4SYHBzmaV3rHmdNN",
       "type": "rectangle",
-      "x": -4324.925654603407,
-      "y": 487.81258168948955,
+      "x": -4338.812567740676,
+      "y": 486.1428480029557,
       "width": 204.44190604758637,
       "height": 197.95168680798037,
       "angle": 0,
@@ -697,8 +702,8 @@
         "type": 3
       },
       "seed": 799701711,
-      "version": 442,
-      "versionNonce": 457023328,
+      "version": 556,
+      "versionNonce": 1236971174,
       "isDeleted": false,
       "boundElements": [
         {
@@ -710,15 +715,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "7C6bKPeOm64yIKKX_AICu",
       "type": "text",
-      "x": -4292.474558405378,
-      "y": 533.327391233794,
+      "x": -4306.361471542647,
+      "y": 531.6576575472601,
       "width": 158.85987854003906,
       "height": 75,
       "angle": 0,
@@ -736,11 +741,11 @@
       "index": "b4V",
       "roundness": null,
       "seed": 1400986383,
-      "version": 327,
-      "versionNonce": 1427288928,
+      "version": 441,
+      "versionNonce": 1761208806,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "transcoding\nor \nadaptive bitrate",
@@ -751,13 +756,14 @@
       "containerId": null,
       "originalText": "transcoding\nor \nadaptive bitrate",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "qi22temj5W_OIG6VEif5j",
       "type": "rectangle",
-      "x": -3942.372644575874,
-      "y": 332.996835843613,
+      "x": -3956.2595577131433,
+      "y": 331.32710215707914,
       "width": 273.70183575001136,
       "height": 90.04080717336421,
       "angle": 0,
@@ -777,8 +783,8 @@
         "type": 3
       },
       "seed": 1861595727,
-      "version": 321,
-      "versionNonce": 992298848,
+      "version": 435,
+      "versionNonce": 724548902,
       "isDeleted": false,
       "boundElements": [
         {
@@ -790,15 +796,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "W1RH5Q5xVotzKBo_cqSGz",
       "type": "text",
-      "x": -3890.491666886415,
-      "y": 353.01723943029526,
+      "x": -3904.378580023684,
+      "y": 351.3475057437614,
       "width": 169.93988037109375,
       "height": 50,
       "angle": 0,
@@ -816,11 +822,11 @@
       "index": "b4X",
       "roundness": null,
       "seed": 392438689,
-      "version": 318,
-      "versionNonce": 1774541664,
+      "version": 432,
+      "versionNonce": 633940070,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "break into smaller\nchunks",
@@ -831,13 +837,14 @@
       "containerId": "qi22temj5W_OIG6VEif5j",
       "originalText": "break into smaller\nchunks",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "on7EnflgMlw5_oQOMBnOe",
       "type": "arrow",
-      "x": -4114.483748555821,
-      "y": 576.7159539873331,
+      "x": -4128.37066169309,
+      "y": 575.0462203007993,
       "width": 149.81962054251937,
       "height": 1.0044455883401042,
       "angle": 0,
@@ -857,11 +864,11 @@
         "type": 2
       },
       "seed": 1721465601,
-      "version": 330,
-      "versionNonce": 1933766496,
+      "version": 444,
+      "versionNonce": 949169062,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -883,8 +890,8 @@
     {
       "id": "4pFPPoX5jQ9-pUIGWYal0",
       "type": "rectangle",
-      "x": -3959.567478550658,
-      "y": 530.1516712576694,
+      "x": -3973.4543916879275,
+      "y": 528.4819375711355,
       "width": 274.7971127080402,
       "height": 95.13745663600757,
       "angle": 0,
@@ -904,8 +911,8 @@
         "type": 3
       },
       "seed": 272661871,
-      "version": 358,
-      "versionNonce": 535692128,
+      "version": 472,
+      "versionNonce": 1102759654,
       "isDeleted": false,
       "boundElements": [
         {
@@ -913,15 +920,15 @@
           "id": "pYxsK1tC3ataE2wbEDbRI"
         }
       ],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "pYxsK1tC3ataE2wbEDbRI",
       "type": "text",
-      "x": -3874.788879166853,
-      "y": 552.7203995756732,
+      "x": -3888.6757923041223,
+      "y": 551.0506658891394,
       "width": 105.23991394042969,
       "height": 50,
       "angle": 0,
@@ -939,11 +946,11 @@
       "index": "b4a",
       "roundness": null,
       "seed": 46625007,
-      "version": 329,
-      "versionNonce": 773232480,
+      "version": 443,
+      "versionNonce": 1372387878,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "transcode \neach chunk",
@@ -954,13 +961,14 @@
       "containerId": "4pFPPoX5jQ9-pUIGWYal0",
       "originalText": "transcode \neach chunk",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "TLqlIE8_SP_5l-_LDZDzQ",
       "type": "arrow",
-      "x": -4103.972546658884,
-      "y": 669.460089903252,
+      "x": -4117.859459796154,
+      "y": 667.7903562167181,
       "width": 132.51288602872478,
       "height": 67.95532616857679,
       "angle": 0,
@@ -980,11 +988,11 @@
         "type": 2
       },
       "seed": 1673575951,
-      "version": 324,
-      "versionNonce": 302820192,
+      "version": 438,
+      "versionNonce": 1605813606,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -1006,8 +1014,8 @@
     {
       "id": "1JxEQwSchu_sdhjA669U3",
       "type": "rectangle",
-      "x": -3962.009392875353,
-      "y": 677.4591515606704,
+      "x": -3975.8963060126225,
+      "y": 675.7894178741366,
       "width": 268.42353836587836,
       "height": 132.51288602872467,
       "angle": 0,
@@ -1027,19 +1035,19 @@
         "type": 3
       },
       "seed": 223962433,
-      "version": 361,
-      "versionNonce": 908083040,
+      "version": 475,
+      "versionNonce": 2093295782,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "c0mOQVbkaVXnx3g00FLFd",
       "type": "text",
-      "x": -3923.5386865246073,
-      "y": 720.2792644792656,
+      "x": -3937.4255996618767,
+      "y": 718.6095307927318,
       "width": 180.83984375,
       "height": 50,
       "angle": 0,
@@ -1057,11 +1065,11 @@
       "index": "b4d",
       "roundness": null,
       "seed": 1926616929,
-      "version": 336,
-      "versionNonce": 983651168,
+      "version": 450,
+      "versionNonce": 145040358,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "reassemble the\ntranscoded chunks",
@@ -1072,13 +1080,14 @@
       "containerId": null,
       "originalText": "reassemble the\ntranscoded chunks",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "CXvOP4KpkPByRuGINdG90",
       "type": "text",
-      "x": -4093.656371432643,
-      "y": 384.26568838619016,
+      "x": -4107.543284569912,
+      "y": 382.5959546996563,
       "width": 59.93995666503906,
       "height": 25,
       "angle": 0,
@@ -1096,11 +1105,11 @@
       "index": "b4e",
       "roundness": null,
       "seed": 1887308719,
-      "version": 259,
-      "versionNonce": 903866208,
+      "version": 373,
+      "versionNonce": 1701033766,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "step 1",
@@ -1111,13 +1120,14 @@
       "containerId": null,
       "originalText": "step 1",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "3yMggBxg8x5_Tu4h_K0Vd",
       "type": "text",
-      "x": -4086.073769432012,
-      "y": 514.2079986502348,
+      "x": -4099.960682569282,
+      "y": 512.538264963701,
       "width": 65.39996337890625,
       "height": 25,
       "angle": 0,
@@ -1135,11 +1145,11 @@
       "index": "b4f",
       "roundness": null,
       "seed": 1133907183,
-      "version": 291,
-      "versionNonce": 1949039456,
+      "version": 405,
+      "versionNonce": 728621670,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "step 2",
@@ -1150,13 +1160,14 @@
       "containerId": null,
       "originalText": "step 2",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "sTkcm7A_S1etIoruO16bS",
       "type": "text",
-      "x": -4077.3665328476864,
-      "y": 634.6581047334006,
+      "x": -4091.2534459849558,
+      "y": 632.9883710468667,
       "width": 63.55995178222656,
       "height": 25,
       "angle": 0,
@@ -1174,11 +1185,11 @@
       "index": "b4g",
       "roundness": null,
       "seed": 749207617,
-      "version": 291,
-      "versionNonce": 936742752,
+      "version": 405,
+      "versionNonce": 1569760678,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "step 3",
@@ -1189,13 +1200,14 @@
       "containerId": null,
       "originalText": "step 3",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "7DIO79qp1Jma-F8YhPT8b",
       "type": "arrow",
-      "x": -4117.838159371324,
-      "y": 501.15409901886494,
+      "x": -4131.725072508593,
+      "y": 499.4843653323311,
       "width": 169.4655147954503,
       "height": 118.9175250605465,
       "angle": 0,
@@ -1215,11 +1227,11 @@
         "type": 2
       },
       "seed": 1534918081,
-      "version": 253,
-      "versionNonce": 2032968544,
+      "version": 367,
+      "versionNonce": 486080742,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -1255,8 +1267,8 @@
     {
       "id": "j7ucr6QyN-QCM6ydN73AC",
       "type": "rectangle",
-      "x": -5480.396569235096,
-      "y": 189.02196316367963,
+      "x": -5494.283482372365,
+      "y": 187.35222947714578,
       "width": 1909.5865538830635,
       "height": 833.3263179941881,
       "angle": 0,
@@ -1276,19 +1288,19 @@
         "type": 3
       },
       "seed": 1811714479,
-      "version": 488,
-      "versionNonce": 646002528,
+      "version": 602,
+      "versionNonce": 1563685926,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "eDgoiCx_ZGpmW8Bw0j-CI",
       "type": "text",
-      "x": -5431.541774420328,
-      "y": 245.01451348567048,
+      "x": -5445.428687557597,
+      "y": 243.34477979913663,
       "width": 155.43995666503906,
       "height": 25,
       "angle": 0,
@@ -1306,11 +1318,11 @@
       "index": "b4j",
       "roundness": null,
       "seed": 1301819215,
-      "version": 301,
-      "versionNonce": 1680034656,
+      "version": 415,
+      "versionNonce": 405700454,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "EMEA REGION ",
@@ -1321,13 +1333,14 @@
       "containerId": null,
       "originalText": "EMEA REGION ",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "hcKLScNe5y1_aqD3THBC7",
       "type": "rectangle",
-      "x": -3363.5041971463907,
-      "y": 159.88444119181747,
+      "x": -3377.39111028366,
+      "y": 158.21470750528363,
       "width": 386.9818020994581,
       "height": 198.36882292493215,
       "angle": 0,
@@ -1347,8 +1360,8 @@
         "type": 3
       },
       "seed": 80949103,
-      "version": 625,
-      "versionNonce": 1281548128,
+      "version": 739,
+      "versionNonce": 37069478,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1356,15 +1369,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "9kmHpzAUg_AKanR0ibmoy",
       "type": "text",
-      "x": -3272.118223510539,
-      "y": 226.45588245759188,
+      "x": -3286.0051366478083,
+      "y": 224.78614877105804,
       "width": 198.17442321777344,
       "height": 187.98351810132908,
       "angle": 0,
@@ -1382,11 +1395,11 @@
       "index": "b4l",
       "roundness": null,
       "seed": 11376623,
-      "version": 517,
-      "versionNonce": 797963104,
+      "version": 631,
+      "versionNonce": 1039556070,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "region 2\nCDN\n",
@@ -1397,13 +1410,14 @@
       "containerId": null,
       "originalText": "region 2\nCDN\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "8NvzxUwBNDOxthaSzUf_x",
       "type": "rectangle",
-      "x": -3356.3405384155935,
-      "y": 439.84038540985455,
+      "x": -3370.227451552863,
+      "y": 438.1706517233207,
       "width": 385.17108443634925,
       "height": 162.6277912064586,
       "angle": 0,
@@ -1423,8 +1437,8 @@
         "type": 3
       },
       "seed": 1830268367,
-      "version": 416,
-      "versionNonce": 1408927584,
+      "version": 530,
+      "versionNonce": 276672806,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1432,15 +1446,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "Gy1RbqYMB50PBryCz9rHm",
       "type": "text",
-      "x": -3262.8598518671433,
-      "y": 479.55246574456,
+      "x": -3276.7467650044127,
+      "y": 477.88273205802614,
       "width": 193.56336975097656,
       "height": 125.32234540088606,
       "angle": 0,
@@ -1458,11 +1472,11 @@
       "index": "b4n",
       "roundness": null,
       "seed": 477780111,
-      "version": 564,
-      "versionNonce": 905091936,
+      "version": 678,
+      "versionNonce": 356031590,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "region 3\nCDN",
@@ -1473,13 +1487,14 @@
       "containerId": null,
       "originalText": "region 3\nCDN",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "ja9anJSlj0551TgXbrMX7",
       "type": "line",
-      "x": -3570.3244742135653,
-      "y": 403.89108419579554,
+      "x": -3584.2113873508347,
+      "y": 402.2213505092617,
       "width": 106.13603215579383,
       "height": 1.7118714863838704,
       "angle": 0,
@@ -1499,11 +1514,11 @@
         "type": 2
       },
       "seed": 1610569135,
-      "version": 398,
-      "versionNonce": 1204301664,
+      "version": 512,
+      "versionNonce": 1911824294,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -1525,8 +1540,8 @@
     {
       "id": "89sR1HFbxqH7fkFB960VC",
       "type": "line",
-      "x": -3469.3240565169226,
-      "y": 285.77195163531496,
+      "x": -3483.210969654192,
+      "y": 284.1022179487811,
       "width": 1.7118714863838704,
       "height": 564.9175905066455,
       "angle": 0,
@@ -1546,11 +1561,11 @@
         "type": 2
       },
       "seed": 826137761,
-      "version": 465,
-      "versionNonce": 835404640,
+      "version": 579,
+      "versionNonce": 182270694,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -1572,8 +1587,8 @@
     {
       "id": "uMv1KK2lXYMZyMl5-aXBS",
       "type": "arrow",
-      "x": -3465.9003135441553,
-      "y": 523.7220882426597,
+      "x": -3479.7872266814247,
+      "y": 522.0523545561258,
       "width": 103.55977512856157,
       "height": 2.411810075455378,
       "angle": 0,
@@ -1593,11 +1608,11 @@
         "type": 2
       },
       "seed": 797375055,
-      "version": 398,
-      "versionNonce": 306960224,
+      "version": 512,
+      "versionNonce": 914419238,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -1626,8 +1641,8 @@
     {
       "id": "e9BNowdKbgro1BgHJTiKQ",
       "type": "rectangle",
-      "x": -3343.327864692217,
-      "y": 806.5717231285854,
+      "x": -3357.2147778294866,
+      "y": 804.9019894420516,
       "width": 385.17108443634925,
       "height": 162.6277912064586,
       "angle": 0,
@@ -1647,8 +1662,8 @@
         "type": 3
       },
       "seed": 168239663,
-      "version": 470,
-      "versionNonce": 1033497440,
+      "version": 584,
+      "versionNonce": 1909209446,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1656,15 +1671,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "TCOXpsNJelnmVCSuZA66_",
       "type": "text",
-      "x": -3249.8471781437665,
-      "y": 846.2838034632906,
+      "x": -3263.734091281036,
+      "y": 844.6140697767568,
       "width": 209.50152587890625,
       "height": 125.32234540088606,
       "angle": 0,
@@ -1682,11 +1697,11 @@
       "index": "b4s",
       "roundness": null,
       "seed": 1080099919,
-      "version": 620,
-      "versionNonce": 2114289504,
+      "version": 734,
+      "versionNonce": 336338086,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "region  n\nCDN",
@@ -1697,13 +1712,14 @@
       "containerId": null,
       "originalText": "region  n\nCDN",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "AhqoSDB0W68RMwWtMnx0I",
       "type": "arrow",
-      "x": -3470.0232451351576,
-      "y": 854.8100051791833,
+      "x": -3483.910158272427,
+      "y": 853.1402714926495,
       "width": 120.69538044294063,
       "height": 0,
       "angle": 0,
@@ -1723,11 +1739,11 @@
         "type": 2
       },
       "seed": 737479183,
-      "version": 403,
-      "versionNonce": 1407095648,
+      "version": 517,
+      "versionNonce": 49125350,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -1756,8 +1772,8 @@
     {
       "id": "jbtMmqxa4dWQillGo4li2",
       "type": "text",
-      "x": -3222.9686622726454,
-      "y": 627.6560233478202,
+      "x": -3236.8555754099148,
+      "y": 625.9862896612864,
       "width": 18,
       "height": 125,
       "angle": 0,
@@ -1775,11 +1791,11 @@
       "index": "b4u",
       "roundness": null,
       "seed": 304590177,
-      "version": 375,
-      "versionNonce": 896870240,
+      "version": 489,
+      "versionNonce": 1719511846,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": ".\n\n.\n\n.",
@@ -1790,13 +1806,14 @@
       "containerId": null,
       "originalText": ".\n\n.\n\n.",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "sWss2EdfaRRW-UGELd-uw",
       "type": "arrow",
-      "x": -3465.4127531694176,
-      "y": 286.80611901287716,
+      "x": -3479.299666306687,
+      "y": 285.1363853263433,
       "width": 95.90855602302736,
       "height": 0,
       "angle": 0,
@@ -1816,11 +1833,11 @@
         "type": 2
       },
       "seed": 2041309167,
-      "version": 428,
-      "versionNonce": 1327053664,
+      "version": 542,
+      "versionNonce": 1562990182,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -1849,10 +1866,10 @@
     {
       "id": "ExMP5WTFQywBhjaUE3cbC",
       "type": "rectangle",
-      "x": -5437.395225069032,
-      "y": 772.3240839121714,
-      "width": 186.25709209696828,
-      "height": 191.98807954610584,
+      "x": -4945.905051563952,
+      "y": 825.5866422519799,
+      "width": 143.8807525337906,
+      "height": 157.4592102724049,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1870,25 +1887,20 @@
         "type": 3
       },
       "seed": 544033825,
-      "version": 348,
-      "versionNonce": 231960224,
+      "version": 542,
+      "versionNonce": 800954790,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "InQkYBtd9W3kMNfUAqQCj",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1788321393700,
+      "boundElements": [],
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "5JVxS3IgxXct5INaSHrun",
       "type": "text",
-      "x": -5397.81286780563,
-      "y": 856.9111392396127,
-      "width": 102.11993408203125,
+      "x": -4889.936284945833,
+      "y": 895.6472925438088,
+      "width": 30.819976806640625,
       "height": 25,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -1905,28 +1917,29 @@
       "index": "b4x",
       "roundness": null,
       "seed": 990453953,
-      "version": 361,
-      "versionNonce": 1774838624,
+      "version": 555,
+      "versionNonce": 1954265574,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717496636,
       "link": null,
       "locked": false,
-      "text": "NoSQL DB",
+      "text": "DB",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "NoSQL DB",
+      "originalText": "DB",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "RisBl75LN0pPiP2IFSLOy",
       "type": "rectangle",
-      "x": -4970.0991329521,
-      "y": 528.6568214990419,
+      "x": -4983.98604608937,
+      "y": 526.9870878125081,
       "width": 198.4645889093536,
       "height": 81.61160665431362,
       "angle": 0,
@@ -1946,8 +1959,8 @@
         "type": 3
       },
       "seed": 34445473,
-      "version": 422,
-      "versionNonce": 292976480,
+      "version": 536,
+      "versionNonce": 397666342,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1959,15 +1972,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "CyaEBrDzH0jWq38hWfvfL",
       "type": "text",
-      "x": -4929.660628373565,
-      "y": 544.4171349620148,
+      "x": -4943.547541510834,
+      "y": 542.7474012754809,
       "width": 129.21990966796875,
       "height": 50,
       "angle": 0,
@@ -1985,11 +1998,11 @@
       "index": "b4z",
       "roundness": null,
       "seed": 1130666113,
-      "version": 493,
-      "versionNonce": 1047563104,
+      "version": 607,
+      "versionNonce": 1720709990,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "blob storage\nfor raw video",
@@ -2000,13 +2013,14 @@
       "containerId": null,
       "originalText": "blob storage\nfor raw video",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "B-iwxBTewake4oaxf3MMZ",
       "type": "rectangle",
-      "x": -4631.8789301324405,
-      "y": 527.9078813772725,
+      "x": -4645.76584326971,
+      "y": 526.2381476907386,
       "width": 166.93283179291427,
       "height": 85.32122513860065,
       "angle": 0,
@@ -2026,8 +2040,8 @@
         "type": 3
       },
       "seed": 435638081,
-      "version": 424,
-      "versionNonce": 1795694432,
+      "version": 538,
+      "versionNonce": 1816696486,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2043,15 +2057,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "2GMkVhLeZfvHvbavK2-xQ",
       "type": "text",
-      "x": -4619.042458083639,
-      "y": 545.5684939465726,
+      "x": -4632.929371220908,
+      "y": 543.8987602600388,
       "width": 141.2598876953125,
       "height": 50,
       "angle": 0,
@@ -2069,11 +2083,11 @@
       "index": "b51",
       "roundness": null,
       "seed": 1438217423,
-      "version": 375,
-      "versionNonce": 1200436064,
+      "version": 489,
+      "versionNonce": 1368052198,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "push to a \nmessage queue",
@@ -2084,13 +2098,14 @@
       "containerId": "B-iwxBTewake4oaxf3MMZ",
       "originalText": "push to a \nmessage queue",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "nYIG1r6rf2GsV2_vVRX0f",
       "type": "arrow",
-      "x": -4765.634544042747,
-      "y": 569.4956088087971,
+      "x": -4779.521457180016,
+      "y": 567.8258751222633,
       "width": 107.63797883980476,
       "height": 0.44531306366434364,
       "angle": 0,
@@ -2110,11 +2125,11 @@
         "type": 2
       },
       "seed": 1235187919,
-      "version": 399,
-      "versionNonce": 2052048736,
+      "version": 513,
+      "versionNonce": 560178470,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -2144,8 +2159,8 @@
     {
       "id": "IqNPkQlHeXfMRvcStBCI5",
       "type": "text",
-      "x": -4745.591373486836,
-      "y": 587.5766045804979,
+      "x": -4759.478286624106,
+      "y": 585.9068708939641,
       "width": 67.199951171875,
       "height": 25,
       "angle": 0,
@@ -2163,11 +2178,11 @@
       "index": "b53",
       "roundness": null,
       "seed": 1930532495,
-      "version": 292,
-      "versionNonce": 1604311904,
+      "version": 406,
+      "versionNonce": 2101350502,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "videoid",
@@ -2178,13 +2193,14 @@
       "containerId": null,
       "originalText": "videoid",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "launf2cUg-87gCxpQo1ol",
       "type": "text",
-      "x": -4740.461610171986,
-      "y": 522.7190255550375,
+      "x": -4754.348523309255,
+      "y": 521.0492918685037,
       "width": 62.39996337890625,
       "height": 25,
       "angle": 0,
@@ -2202,11 +2218,11 @@
       "index": "b54",
       "roundness": null,
       "seed": 1371581935,
-      "version": 299,
-      "versionNonce": 1238200160,
+      "version": 413,
+      "versionNonce": 1357714342,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "text": "bloburl",
@@ -2217,13 +2233,14 @@
       "containerId": null,
       "originalText": "bloburl",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "X-ZtYq3XEQRDB6D2rYqJU",
       "type": "arrow",
-      "x": -5007.003214786473,
-      "y": 568.4879188616995,
+      "x": -5020.8901279237425,
+      "y": 566.8181851751657,
       "width": 30.90408183437269,
       "height": 0.8230690091336328,
       "angle": 0,
@@ -2243,11 +2260,11 @@
         "type": 2
       },
       "seed": 1351950657,
-      "version": 354,
-      "versionNonce": 1093174112,
+      "version": 468,
+      "versionNonce": 110604006,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -2287,8 +2304,8 @@
     {
       "id": "u-sZoNRfg9qC9JY7g759b",
       "type": "rectangle",
-      "x": -4357.841300759423,
-      "y": 249.36867311222454,
+      "x": -4371.728213896692,
+      "y": 247.6989394256907,
       "width": 738.051024873739,
       "height": 669.4501283309875,
       "angle": 0,
@@ -2308,8 +2325,8 @@
         "type": 3
       },
       "seed": 1354938465,
-      "version": 296,
-      "versionNonce": 1140922208,
+      "version": 410,
+      "versionNonce": 986505766,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2317,15 +2334,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false
     },
     {
       "id": "DWb0aSX10ZOYFefpMtSsW",
       "type": "arrow",
-      "x": -4458.946098339526,
-      "y": 570.2334062709471,
+      "x": -4472.833011476795,
+      "y": 568.5636725844132,
       "width": 95.10479758010388,
       "height": 5.446648557768867,
       "angle": 0,
@@ -2345,11 +2362,11 @@
         "type": 2
       },
       "seed": 77116961,
-      "version": 330,
-      "versionNonce": 111618912,
+      "version": 444,
+      "versionNonce": 1887022438,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
       "points": [
@@ -2386,8 +2403,8 @@
     {
       "id": "43kmMRTNaok2y0nlbpajR",
       "type": "text",
-      "x": -5468.831388005827,
-      "y": 1133.0742452043166,
+      "x": -5482.718301143096,
+      "y": 1131.4045115177828,
       "width": 2574.36673358407,
       "height": 2057.7833069304534,
       "angle": 0,
@@ -2405,22 +2422,23 @@
       "index": "b58",
       "roundness": null,
       "seed": 705701056,
-      "version": 2336,
-      "versionNonce": 862633824,
+      "version": 2469,
+      "versionNonce": 1156255910,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788321380078,
+      "updated": 1788717491702,
       "link": null,
       "locked": false,
-      "text": "Q3: read/watch path scaling\n\nWhy its important to optimize read operation?\nBecause youtube is read heavy\n\n\nscenario: User from US uploads a video and a user from India watches \nit explain what happens?\n\n1. What happens step by step from \"user clicks play\" to \"video starts streaming\" — where does the request \ngo first, and how does it find the video fast? \n\n- user clicks play \n- client browser requests the vidoe's manifest file from the nearest CDN edge server\n- manfiest file is like an index of indexes. Pointing to the various resolution and the chunks\n- request it from the nearest CDN edge\n- if cache hit then server directly as a result low latency\n\n\n2. What happens if the video is not yet cached in the India CDN edge (cache miss) — \nwhat's the fallback path? \ncache miss - CDN server doesn't have the original video\n- take a pull from original blob storage\n- the first users pays a latency penalty after that all user uses the cached version\n\n\n3. How does the client actually decide which resolution to request, and how does it switch mid-playback if network conditions change\n (e.g., user goes from WiFi to weak mobile data)?\n\nABR = adaptive bitrate streaming\n\nbased on the clients network strength decide which resolution to server \nwithout starting the playback from the beginning\n\n- client monitors it download throughput (how fast the recent chunks arrive)\n- each chunk is 2-10 seconds long\n- before requesting the ABR algorithm computes which resolution to send next\n- because chunks are independent file per resolutions switching is seamless \nno restart just the next chunk come from a differenet quality tier\n\n4.  how would you handle the \"view count\" update for this video without hammering your database on every single play?\n- the count are not updated every time a new viewer arrives. For viral/trending videos it can hammer the DB\nmultiple times for the same row cause serious contention\n- the count is pushed to a async message queue\n- after sometime in one go the count is updated\n- therefore two viewer can see different view count. Since it can be stale. Because \navailability is emphaise over consistency.",
+      "text": "Q3: read/watch path scaling\n\nWhy its important to optimize read operation?\nBecause youtube is read heavy\n\n\nscenario: User from US uploads a video and a user from India watches \nit explain what happens?\n\n1. What happens step by step from \"user clicks play\" to \"video starts streaming\" — where does the request \ngo first, and how does it find the video fast? \n\n- user clicks play \n- client browser requests the vidoe's manifest file from the nearest CDN edge server\n- manfiest file is like an index of indexes. Pointing to the various resolution and the chunks\n- request it from the nearest CDN edge\n- if cache hit then server directly therefore resulting in low latency\n\n\n2. What happens if the video is not yet cached in the India CDN edge (cache miss) — \nwhat's the fallback path? \ncache miss - CDN server doesn't have the original video\n- take a pull from original blob storage\n- the first users pays a latency penalty after that all user uses the cached version\n\n\n3. How does the client actually decide which resolution to request, and how does it switch mid-playback if network conditions change\n (e.g., user goes from WiFi to weak mobile data)?\n\nABR = adaptive bitrate streaming\n\nbased on the clients network strength decide which resolution to server \nwithout starting the playback from the beginning\n\n- client monitors it download throughput (how fast the recent chunks arrive)\n- each chunk is 2-10 seconds long\n- before requesting the ABR algorithm computes which resolution to send next\n- because chunks are independent file per resolutions switching is seamless \nno restart just the next chunk come from a differenet quality tier\n\n4.  how would you handle the \"view count\" update for this video without hammering your database on every single play?\n- the count are not updated every time a new viewer arrives. For viral/trending videos it can hammer the DB\nmultiple times for the same row cause serious contention\n- the count is pushed to a async message queue\n- after sometime in one go the count is updated\n- therefore two viewer can see different view count. Since it can be stale. Because \navailability is emphaise over consistency.",
       "fontSize": 35.02609884136942,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "Q3: read/watch path scaling\n\nWhy its important to optimize read operation?\nBecause youtube is read heavy\n\n\nscenario: User from US uploads a video and a user from India watches \nit explain what happens?\n\n1. What happens step by step from \"user clicks play\" to \"video starts streaming\" — where does the request \ngo first, and how does it find the video fast? \n\n- user clicks play \n- client browser requests the vidoe's manifest file from the nearest CDN edge server\n- manfiest file is like an index of indexes. Pointing to the various resolution and the chunks\n- request it from the nearest CDN edge\n- if cache hit then server directly as a result low latency\n\n\n2. What happens if the video is not yet cached in the India CDN edge (cache miss) — \nwhat's the fallback path? \ncache miss - CDN server doesn't have the original video\n- take a pull from original blob storage\n- the first users pays a latency penalty after that all user uses the cached version\n\n\n3. How does the client actually decide which resolution to request, and how does it switch mid-playback if network conditions change\n (e.g., user goes from WiFi to weak mobile data)?\n\nABR = adaptive bitrate streaming\n\nbased on the clients network strength decide which resolution to server \nwithout starting the playback from the beginning\n\n- client monitors it download throughput (how fast the recent chunks arrive)\n- each chunk is 2-10 seconds long\n- before requesting the ABR algorithm computes which resolution to send next\n- because chunks are independent file per resolutions switching is seamless \nno restart just the next chunk come from a differenet quality tier\n\n4.  how would you handle the \"view count\" update for this video without hammering your database on every single play?\n- the count are not updated every time a new viewer arrives. For viral/trending videos it can hammer the DB\nmultiple times for the same row cause serious contention\n- the count is pushed to a async message queue\n- after sometime in one go the count is updated\n- therefore two viewer can see different view count. Since it can be stale. Because \navailability is emphaise over consistency.",
+      "originalText": "Q3: read/watch path scaling\n\nWhy its important to optimize read operation?\nBecause youtube is read heavy\n\n\nscenario: User from US uploads a video and a user from India watches \nit explain what happens?\n\n1. What happens step by step from \"user clicks play\" to \"video starts streaming\" — where does the request \ngo first, and how does it find the video fast? \n\n- user clicks play \n- client browser requests the vidoe's manifest file from the nearest CDN edge server\n- manfiest file is like an index of indexes. Pointing to the various resolution and the chunks\n- request it from the nearest CDN edge\n- if cache hit then server directly therefore resulting in low latency\n\n\n2. What happens if the video is not yet cached in the India CDN edge (cache miss) — \nwhat's the fallback path? \ncache miss - CDN server doesn't have the original video\n- take a pull from original blob storage\n- the first users pays a latency penalty after that all user uses the cached version\n\n\n3. How does the client actually decide which resolution to request, and how does it switch mid-playback if network conditions change\n (e.g., user goes from WiFi to weak mobile data)?\n\nABR = adaptive bitrate streaming\n\nbased on the clients network strength decide which resolution to server \nwithout starting the playback from the beginning\n\n- client monitors it download throughput (how fast the recent chunks arrive)\n- each chunk is 2-10 seconds long\n- before requesting the ABR algorithm computes which resolution to send next\n- because chunks are independent file per resolutions switching is seamless \nno restart just the next chunk come from a differenet quality tier\n\n4.  how would you handle the \"view count\" update for this video without hammering your database on every single play?\n- the count are not updated every time a new viewer arrives. For viral/trending videos it can hammer the DB\nmultiple times for the same row cause serious contention\n- the count is pushed to a async message queue\n- after sometime in one go the count is updated\n- therefore two viewer can see different view count. Since it can be stale. Because \navailability is emphaise over consistency.",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "q-gz9EHH8JSo8_adJ4tGV",
@@ -2457,7 +2475,8 @@
       "containerId": null,
       "originalText": "For the core videos table (title, description, owner, duration, upload date, status, blob URLs per resolution) — would you use SQL or NoSQL? \nJustify with the actual reasoning (not just \"it has relationships\").\n\nSQL suits best for this requirement \n\n1. Strong consistency: a video belongs only to one user/owner. If the channel/user is deleted all the videos associated with \nthe channel/user will also be cascade and be deleted. Having strong consistency ACID properties of SQL DB is much more \neffcient and reliable\n\n2. structured schema\neach video has the same details such as title, description, tags etc. Most of those details are mandatory. \nSQL DB offer this.\n\n3. write operation of video are rare\nThe title, description etc, are occasionally updated.\n\n\n\nComments on a video can be nested (replies to replies). How would you model comment data — SQL with a parent_comment_id foreign key, or a NoSQL document structure? \nWhat breaks at scale with each approach?\n\n\n                                    reading                                         writing\n\n                                                                        You have to search for the subdocument \n                         reading is easy. You pick the            then write inside it\n                         document or the subdocument to\n                         get all the threads\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "lv0u604EWQesqasW8lUt7",
@@ -2584,7 +2603,8 @@
       "containerId": null,
       "originalText": "NoSQL\n\n\n\n\nSQL",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "odEqImGqXomls2MN-0U3n",
@@ -2666,7 +2686,8 @@
       "containerId": null,
       "originalText": "To read nested comments you \nneed recursive query such as CTE,\nsubquery or joins which are slow\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "dKbCD8Ha9OyBxO3bM9lNM",
@@ -2703,7 +2724,8 @@
       "containerId": null,
       "originalText": "writing/storing nested comments \nis relatively cheap since it has self \nreferencing \n\nvideo_id, comment_id, parent_comment_id, text",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "mwL0srJQq5CuybUspHLaC",
@@ -2740,7 +2762,8 @@
       "containerId": null,
       "originalText": "NoSQL wins here primarly because of horizontal scaling on write operation using sharding",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "WqpR1hkP-Me4v_90_zZt1",
@@ -2777,7 +2800,8 @@
       "containerId": null,
       "originalText": "Subscriptions: \"User A subscribes to Channel B.\" At YouTube's scale, some channels have 100M+ subscribers. \nIf User A's homepage needs to show \"latest videos from channels I'm subscribed to,\"\n how would you design this so it's fast — do you query subscriptions live, or \nprecompute something? ",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "L-czw1xqb21Dc4eShAths",
@@ -2857,7 +2881,8 @@
       "containerId": "L-czw1xqb21Dc4eShAths",
       "originalText": "two ways to update the user about\na video that a channel has upload to which they have subscribed",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "487mZg39adDx3H1QTbd1J",
@@ -2929,7 +2954,8 @@
       "containerId": null,
       "originalText": "fan-out-on-write",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "qzjsDqxErFJOgrRCCDGp3",
@@ -3001,7 +3027,8 @@
       "containerId": null,
       "originalText": "fan-out-on-read",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "aRrXvLy-8aFgJvBiSQTtn",
@@ -3156,7 +3183,8 @@
       "containerId": null,
       "originalText": " you show the latest video on the homefeed instantly\n\nadvantage\nthe video is available immediately\n\ndisadvantage\ncelebrity problem ie if a channel has 100M subs then\nyou are writing to 100M users. ",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "wcgQxLnrUY3G9mVe3SJ6I",
@@ -3193,7 +3221,8 @@
       "containerId": null,
       "originalText": "you show the latest video on the home feed only when \nthe user opens their homefeed\n\nadvantage \novercome the celebrity problem\n\ndisadvantage\nfirst query all the channel the user has subscribed to and \nthen get all the latest video\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "HBx5qeCIb--8XwMJFqDsV",
@@ -3260,7 +3289,8 @@
       "containerId": null,
       "originalText": "youtube\nuses hybrid\napproach",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "bdwaVEBuowovznQ_2KAmf",
@@ -3477,7 +3507,8 @@
       "containerId": null,
       "originalText": "fan-out-on-write",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "hD50aiNgHEz0lcpjXmrnW",
@@ -3514,7 +3545,8 @@
       "containerId": null,
       "originalText": "fan-out-on-read",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "1OxGrBz81-Ro4CLVhZWd8",
@@ -3551,7 +3583,8 @@
       "containerId": null,
       "originalText": "for smaller channels",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "EixYF6KN0fQaH998OLqGU",
@@ -3588,7 +3621,8 @@
       "containerId": null,
       "originalText": "for celebrity channels",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "grecSMAE-53koVFSy1hLx",
@@ -3625,7 +3659,8 @@
       "containerId": null,
       "originalText": "Search — a user types \"cat videos\" in the search bar. What kind of database/index would actually serve this, and \nwhy would a normal SQL LIKE '%cat%' query be a terrible idea at scale?\n\n\ndisadvantages of LIKE '%cat%'\n- B-tree index therefore the entire table ie each row needs to be scanned which is called a full table scan\n- only performs exact matching cannot handle typos\n- fails to find content based on views and popularity\n- fails on synonms for the word cat like 'cats' or 'kittens'\n\nThe solution\n- elastic search (inverted index)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "FRFpf2jFzVLujt5hCAff_",
@@ -3662,7 +3697,8 @@
       "containerId": null,
       "originalText": "Design the rough schema (tables/collections + key fields) for YouTube, covering both SQL and NoSQL\n\n\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "LyUYAe4ihy--Hg54eJqsr",
@@ -3759,7 +3795,8 @@
       "containerId": null,
       "originalText": "SQL",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "khue9kMyQx-BCzcV6eTOP",
@@ -3796,7 +3833,8 @@
       "containerId": null,
       "originalText": "NoSQL",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "gax8cZVrDvyVu907aF8Ue",
@@ -3868,7 +3906,8 @@
       "containerId": "gax8cZVrDvyVu907aF8Ue",
       "originalText": "users",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "CAD_am4ddFkDLG23DSozN",
@@ -3940,7 +3979,8 @@
       "containerId": "CAD_am4ddFkDLG23DSozN",
       "originalText": "channels",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "eEsfgqY1rEQd57lF5axMf",
@@ -4012,7 +4052,8 @@
       "containerId": "eEsfgqY1rEQd57lF5axMf",
       "originalText": "videos",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "UFhPV3zbfItMf8Rlv08sP",
@@ -4084,7 +4125,8 @@
       "containerId": "UFhPV3zbfItMf8Rlv08sP",
       "originalText": "videos\nresolutions",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "znSdqX_2Qkn84-01LT-tp",
@@ -4156,7 +4198,8 @@
       "containerId": "znSdqX_2Qkn84-01LT-tp",
       "originalText": "comments",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "wQX_5WmVcWzILNfoX6iik",
@@ -4228,7 +4271,8 @@
       "containerId": "wQX_5WmVcWzILNfoX6iik",
       "originalText": "likes",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "eFbBzTFZ0dadD50rzBATr",
@@ -4300,7 +4344,8 @@
       "containerId": "eFbBzTFZ0dadD50rzBATr",
       "originalText": "views",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "WiEF6Nf-F2FLXudETVMpW",
@@ -4372,7 +4417,8 @@
       "containerId": "WiEF6Nf-F2FLXudETVMpW",
       "originalText": "watch\nhistory",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "mp4nnSs-8E5fjKVgzgl1N",
@@ -4439,7 +4485,8 @@
       "containerId": null,
       "originalText": "BLOB",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "zrXodT11mKmLUVqAAXBSK",
@@ -4511,7 +4558,8 @@
       "containerId": "zrXodT11mKmLUVqAAXBSK",
       "originalText": "original video",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "4EXO5el4z6UI1QCk16SEX",
@@ -4583,7 +4631,8 @@
       "containerId": "4EXO5el4z6UI1QCk16SEX",
       "originalText": "subtitles",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "DxAknpPHlI-gtMGtneyf2",
@@ -4655,7 +4704,8 @@
       "containerId": "DxAknpPHlI-gtMGtneyf2",
       "originalText": "playlist",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "CXiuDVY7xgGKVw1gCkRi-",
@@ -4727,7 +4777,8 @@
       "containerId": "CXiuDVY7xgGKVw1gCkRi-",
       "originalText": "transcript",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "3gNJQ02hvV51NgD9FGScq",
@@ -4799,7 +4850,8 @@
       "containerId": "3gNJQ02hvV51NgD9FGScq",
       "originalText": "dubbed audio",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "QYx2xAliuWpjSQH6ywEz6",
@@ -4871,7 +4923,8 @@
       "containerId": "QYx2xAliuWpjSQH6ywEz6",
       "originalText": "thumbnail",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "Q4Ecm0BzXt62V8D3jn2AC",
@@ -4908,7 +4961,8 @@
       "containerId": null,
       "originalText": "A user can save videos to 'Watch Later' or create custom playlists. How would you model this in your database? Would you use SQL or NoSQL, and why?\n\nMaintaining playlist SQL is a better solution\n\n1. If a video is added we want consistency which mean the video shows up immediately in the playlist\n2. It is ordered exactly how the user has added them or rearranged them\n3. If the owner of the video removes it the playlist video is pointing to nothing so that the playlist doesn't crashes",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "lro7f5knHVVLMNYRRKu9w",
@@ -4956,7 +5010,8 @@
       "containerId": null,
       "originalText": "application has two operations",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "l9_ZMspeQLHrWdC0IibfN",
@@ -5036,7 +5091,8 @@
       "containerId": "l9_ZMspeQLHrWdC0IibfN",
       "originalText": "read",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "wVw6gc1yUDGwob2xASHp5",
@@ -5112,7 +5168,8 @@
       "containerId": null,
       "originalText": "write ",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "RaeBDUQwLh0huoJFkUq6U",
@@ -5271,7 +5328,8 @@
       "containerId": null,
       "originalText": "how video upload notification is pushed to subscribers?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "u0D4GAAtaZr-8mugCSW2K",
@@ -5347,7 +5405,8 @@
       "containerId": "u0D4GAAtaZr-8mugCSW2K",
       "originalText": "video \nuploaded",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "EyPgCT721oq6-wzJmckEr",
@@ -5471,7 +5530,8 @@
       "containerId": null,
       "originalText": "message queue\nkafka/SQS",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "FQW2YpxMTUrkV47A4H6jZ",
@@ -5508,7 +5568,8 @@
       "containerId": null,
       "originalText": "pzocessing or\ntranscoding is\ndone",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "_OVqLnyGnrYFKKSYYQ1yX",
@@ -5545,7 +5606,8 @@
       "containerId": null,
       "originalText": "\"event\" : \"video_published\"\n\"channelID\" : \"B\"\n\"videoID\" : \"X\"",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "WXEI2Cli-qcxQqtEPFjHG",
@@ -5681,7 +5743,8 @@
       "containerId": "MdpWiFMJ8Iym8pok6ZmcD",
       "originalText": "fan out worker",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "KBt1gjuk4Tb-sty9HLAFe",
@@ -5757,7 +5820,8 @@
       "containerId": null,
       "originalText": "SQL DB",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "qYd6zdUdfEcgh7xUSC67o",
@@ -5853,7 +5917,8 @@
       "containerId": null,
       "originalText": "get all\nusers subscribed\nto channel \"B\"",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "qcCk6TyvLZqNkTiJjaUGy",
@@ -5929,7 +5994,8 @@
       "containerId": null,
       "originalText": "FCM",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "y3sroCL1-3RW9NSXZCAZe",
@@ -6077,7 +6143,8 @@
       "containerId": null,
       "originalText": "users returned",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "d0_JuZMYJnGd63F7FDen6",
@@ -6166,7 +6233,8 @@
       "containerId": null,
       "originalText": "user gets the \nnotification",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "FgURBi66JIhWR-AI1CdlT",
@@ -6238,7 +6306,8 @@
       "containerId": "FgURBi66JIhWR-AI1CdlT",
       "originalText": "feed",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "M8Ls50apcfWaTfaJ7nldt",
@@ -6318,7 +6387,8 @@
       "containerId": "M8Ls50apcfWaTfaJ7nldt",
       "originalText": "subscription",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "8TtG9HlCSLMBhzPZ6k9E4",
@@ -6459,7 +6529,8 @@
       "containerId": null,
       "originalText": "SQL",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "dJXdCzaga5TLbUe5eZkGH",
@@ -6496,7 +6567,8 @@
       "containerId": null,
       "originalText": "NoSQL",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "9ekhbeOApYdxyCj6YcoOL",
@@ -6620,7 +6692,8 @@
       "containerId": "45FhJvSNgJhwsP2DNLzcJ",
       "originalText": "update\nfeed\ncollection",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "8KSOqh_H-XKSBG5CCMeUn",
@@ -6657,7 +6730,8 @@
       "containerId": null,
       "originalText": "NoSQL",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "PnZIxypIFIPAe4bpqqeMb",
@@ -6694,7 +6768,8 @@
       "containerId": null,
       "originalText": "what is fan out worker?\nworker is a background process that picks up event \nfrom a queue and turns it into N individual writes \n(write to feed + 1 FCM notification) ",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "XVT-pMwKjqMt9XWJrbKoK",
@@ -6731,7 +6806,8 @@
       "containerId": null,
       "originalText": "A user has subscribed to multiple channels. what if all the channels post video at the same time. will this create a write amplication problem or the notification will self DoDS itself?\n\nfollow-up question\nIs this problem different from celebrity channel?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "tjxv5ZgJicF_bsI-HN-S4",
@@ -7080,7 +7156,8 @@
       "containerId": null,
       "originalText": "subscribed to 50 channels \nand all the channel uploads\nvideo at the same time",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "bxBCnqPA8BObv2IhzBHGq",
@@ -7162,7 +7239,8 @@
       "containerId": null,
       "originalText": "this user will get 50 notification",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "uoP_-zjjioBJytAiRGuqS",
@@ -7199,7 +7277,8 @@
       "containerId": null,
       "originalText": "1 channels = 1M subscribers\n50 channels = 50M subscrbers",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "fZ45lMg34DmNLwDfSdg-q",
@@ -7281,7 +7360,8 @@
       "containerId": null,
       "originalText": "50M notification",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "vAf_q0_W0XMUvl2wFBO50",
@@ -7318,7 +7398,8 @@
       "containerId": null,
       "originalText": "1 channel = 50M subscribers",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "-59HGC3fRbNVVIPSUuejB",
@@ -7400,7 +7481,8 @@
       "containerId": null,
       "originalText": "50M notification",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "uNU7jtW2WKauGX_9vtqwk",
@@ -7437,7 +7519,8 @@
       "containerId": null,
       "originalText": "how are these two problems different?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "oL9RaYHapZ81G2q-umAZc",
@@ -7474,7 +7557,8 @@
       "containerId": null,
       "originalText": "case 1",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "qH5k1attKYQZ6vafo1Td0",
@@ -7511,7 +7595,8 @@
       "containerId": null,
       "originalText": "case 2",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "ODUPuH3-7MPQlG3lplQI2",
@@ -7593,7 +7678,8 @@
       "containerId": null,
       "originalText": "write amplification",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "Upp9YngFWw_vEd8nRztR8",
@@ -7675,7 +7761,8 @@
       "containerId": null,
       "originalText": "thundering herd",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "wZSAJC-nZv45rGqt7mzep",
@@ -7751,7 +7838,8 @@
       "containerId": "wZSAJC-nZv45rGqt7mzep",
       "originalText": "video \nuploaded",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "CBL-PPTzl20w_RXIoeGwJ",
@@ -7875,7 +7963,8 @@
       "containerId": null,
       "originalText": "message queue\nkafka/SQS",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "-ELC8XxQab39o9aSs6VE2",
@@ -7912,7 +8001,8 @@
       "containerId": null,
       "originalText": "pzocessing or\ntranscoding is\ndone",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "i860ZvZjVnWya_qBPz7a3",
@@ -7949,7 +8039,8 @@
       "containerId": null,
       "originalText": "\"event\" : \"video_published\"\n\"channelID\" : \"B\"\n\"videoID\" : \"X\"",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "XxsqLZT8OgxJiyK3iBbYn",
@@ -8073,7 +8164,8 @@
       "containerId": "oXweRBBvVNJ6qI5e5359m",
       "originalText": "worker",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "JHTKpm7c9KcoFIpwtK4_y",
@@ -8194,7 +8286,8 @@
       "containerId": "zdqp9hvKkhYKFagN1VRPi",
       "originalText": "fan-out-on-write",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "iEYMCgf5rFq_y_xKFkmLd",
@@ -8307,7 +8400,8 @@
       "containerId": null,
       "originalText": "FCM",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "sjfSTUeuDGE7K1BfSuq7j",
@@ -8390,7 +8484,8 @@
       "containerId": null,
       "originalText": "user gets the \nnotification",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "u0t5QpBtKMT5i-talSzuG",
@@ -8466,7 +8561,8 @@
       "containerId": "u0t5QpBtKMT5i-talSzuG",
       "originalText": "update\nfeed\ncollection",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "x_-R2GW7LCzNHHUr2zIhU",
@@ -8505,7 +8601,8 @@
       "containerId": null,
       "originalText": "NoSQL",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "t1EvncUlrPOE2lUXihh62",
@@ -8726,7 +8823,8 @@
       "containerId": null,
       "originalText": "user opens \nthe app ",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "lQQi9CwQGmLrFQQjMuYhj",
@@ -8847,7 +8945,8 @@
       "containerId": null,
       "originalText": "GET\n/homefeed",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "ob2jhSpHzRO0AdZax443I",
@@ -8884,7 +8983,8 @@
       "containerId": null,
       "originalText": "server",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "lFu-OfwRITPBfb1PmthXt",
@@ -9223,7 +9323,8 @@
       "containerId": null,
       "originalText": "in-memory\nsubscriber\ncount",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "ylutSwbwN6KRua8oQkjta",
@@ -9260,7 +9361,8 @@
       "containerId": null,
       "originalText": "O(1) lookup TC",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "n4E9WHmdVjJmkJtORVcUA",
@@ -9349,7 +9451,8 @@
       "containerId": null,
       "originalText": "greater than\nthreshold",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "Gde-uMTD98oCI03OA_eTQ",
@@ -9416,7 +9519,8 @@
       "containerId": null,
       "originalText": "celebrity channel",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "bKa9H-6C1q_-w3l1m55di",
@@ -9455,7 +9559,8 @@
       "containerId": null,
       "originalText": "less than",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "ZmB4xSFx9vneJD8hfSA0F",
@@ -9494,7 +9599,8 @@
       "containerId": null,
       "originalText": "threshold",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "xeQaNy1shkauKuHxzqXXO",
@@ -9665,7 +9771,8 @@
       "containerId": null,
       "originalText": "NoSQL",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "FBhsiQfgVVDQjd_m6yuuw",
@@ -9702,7 +9809,8 @@
       "containerId": null,
       "originalText": "homefeed build during\nupload by fan out on \nwrite",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "6C6cteLCrz4eD5jQWbDDR",
@@ -9769,7 +9877,8 @@
       "containerId": null,
       "originalText": "retrieve all \ncelebrity vides",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "TUjLl7KKYXoo2HQUoQciR",
@@ -10021,7 +10130,8 @@
       "containerId": null,
       "originalText": "merge the feed\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "6cmI44a3LCllQ0HJnxNCA",
@@ -10110,7 +10220,8 @@
       "containerId": null,
       "originalText": "return the newly \nconstructed homefeed \nto the user",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "mJBQJ05IsgEiJRkncekFZ",
@@ -10147,7 +10258,8 @@
       "containerId": null,
       "originalText": "in case of livestreams all the users must be notified regardless of the subscriber count then how does youtube\n handle those notification and feed update?\n\nLive stream videos are also treated the same way like a regular upload\n\nfor smaller channel: fan-out-on-write\nfor celebrity channel: fan-out-on-read\n\n\nThe positioning of the live stream in a user feed is different since all live streams are \ndisplayed on the top of the feed",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "JGvwJ5VcQutwwdv90p7vM",
@@ -10214,7 +10326,8 @@
       "containerId": null,
       "originalText": "live streaming",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "MRDsN6iqCBTzhCH9iG7Pm",
@@ -10431,7 +10544,8 @@
       "containerId": null,
       "originalText": "true",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "OLXo5KR3401XgNcMhJ5G8",
@@ -10468,7 +10582,8 @@
       "containerId": null,
       "originalText": "false",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "W6pE6xoHYhJKZMFh6ELjN",
@@ -10505,7 +10620,8 @@
       "containerId": null,
       "originalText": "upsert at the top of the feed",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "y3RIOkUBsubRsLesCba-P",
@@ -10542,7 +10658,8 @@
       "containerId": null,
       "originalText": "insert in the feed",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "CVEB7kfcABhl1GuqhZzve",
@@ -10579,7 +10696,8 @@
       "containerId": null,
       "originalText": "design a youtube like private application but where the number users are 10k",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "048GI1qjLCtMv1avGSmeZ",
@@ -10659,7 +10777,8 @@
       "containerId": null,
       "originalText": "server",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "v3o06NDy9fD5IIuhr_XAj",
@@ -10731,7 +10850,8 @@
       "containerId": null,
       "originalText": "original video\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "_S-8r0h3f2_nD19U3QPXm",
@@ -10931,7 +11051,8 @@
       "containerId": "LqAZNjhSVLkAgkHYuyGOm",
       "originalText": "worker",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "Mc7E_Ni9DsW9Z7mmLF6Tx",
@@ -11093,7 +11214,8 @@
       "containerId": null,
       "originalText": "SQL DB",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "rP6z_YqUkn04j-3Dyenlf",
@@ -11130,7 +11252,8 @@
       "containerId": null,
       "originalText": "metadata\n- title\n- description\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "y6W4IFO-XB-MlTIuOTh05",
@@ -11210,7 +11333,8 @@
       "containerId": null,
       "originalText": "BLOB",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "7AuJhDomrJo_vdy0Nuu0h",
@@ -11327,7 +11451,8 @@
       "containerId": null,
       "originalText": "Message\nqueue",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "nWpnHwVPKlxUMeigaSxVb",
@@ -11462,7 +11587,8 @@
       "containerId": null,
       "originalText": "transcoding\nprocess",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "rdj23Fc5D8TRBiWxTxt33",
@@ -11648,7 +11774,8 @@
       "containerId": null,
       "originalText": "update video metadata\navailable resolutions",
       "autoResize": false,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "etCky43jDCBmWRDNLCkar",
@@ -11744,7 +11871,8 @@
       "containerId": null,
       "originalText": "after transcoding store the different resolution",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "RuCC7Nkvc8HtIO2u2nD0x",
@@ -11863,7 +11991,8 @@
       "containerId": null,
       "originalText": "FCM\nAPN",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "dFwY0GD4Dfbtq6NDweGEn",
@@ -11939,7 +12068,8 @@
       "containerId": null,
       "originalText": "CDN",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "xZmQdJSZGVyymYxIPLv4M",
@@ -11976,7 +12106,8 @@
       "containerId": null,
       "originalText": "POST /upload",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "eVJY6he7r9cG9fqk8B4FL",
@@ -12207,13 +12338,14 @@
       "containerId": null,
       "originalText": "GET /video",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "InQkYBtd9W3kMNfUAqQCj",
       "type": "arrow",
-      "x": -5361.584627995942,
-      "y": 592.3077864894399,
+      "x": -4870.332987874653,
+      "y": 614.280703299977,
       "width": 5.665758162988823,
       "height": 174.01629742273155,
       "angle": 0,
@@ -12231,8 +12363,8 @@
         "type": 2
       },
       "seed": 1011192480,
-      "version": 42,
-      "versionNonce": 1993216864,
+      "version": 110,
+      "versionNonce": 745732409,
       "isDeleted": false,
       "boundElements": [
         {
@@ -12240,7 +12372,7 @@
           "id": "Gu3eYMdDqc2403Bz1YU9s"
         }
       ],
-      "updated": 1788321733627,
+      "updated": 1788632808149,
       "link": null,
       "locked": false,
       "points": [
@@ -12253,22 +12385,8 @@
           174.01629742273155
         ]
       ],
-      "startBinding": {
-        "elementId": "XEQqJRmDQospXsz93YqYo",
-        "mode": "orbit",
-        "fixedPoint": [
-          0.5001,
-          1
-        ]
-      },
-      "endBinding": {
-        "elementId": "ExMP5WTFQywBhjaUE3cbC",
-        "mode": "orbit",
-        "fixedPoint": [
-          0.3633588735870631,
-          0.36335887358706126
-        ]
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
@@ -12309,7 +12427,8 @@
       "containerId": "InQkYBtd9W3kMNfUAqQCj",
       "originalText": "add metadata",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "RLaWYklB7ZZcpLdzEmI7D",
@@ -12346,7 +12465,8 @@
       "containerId": null,
       "originalText": "where can youtube break?\n- if user upload videos at higher rate(producer) than the rate at which transcoding takes place(consumer) so the message queue can fillup completely?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "JWTkT9TWSkrjsxAk9tn7a",
@@ -12383,7 +12503,8 @@
       "containerId": null,
       "originalText": "2.   decouple upload from transcoding\n\n3.   autoscale consumers\n\n4.   rate limit producers\n\n5.   priority/tiered queue\n\n6.  parition the queue based on user_id or video_id",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "i8bBwL1yM-nWKrHbwV_RX",
@@ -12420,7 +12541,8 @@
       "containerId": null,
       "originalText": "rate limit producer/user",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "6-rqpJMO3hxcxiIEEeQBp",
@@ -12496,7 +12618,8 @@
       "containerId": "6-rqpJMO3hxcxiIEEeQBp",
       "originalText": "user uploads a video",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "rKYbbD_1JC4PdIGHdsEEf",
@@ -12620,7 +12743,8 @@
       "containerId": "2eWfL4nTmRZYadYX9RF-B",
       "originalText": "server\nload balancer",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "pYnl1zkBLuNnTvASdNHr5",
@@ -12657,7 +12781,8 @@
       "containerId": null,
       "originalText": "check user upload\nrate limit",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "mLpxwDFmcqetj9I-_Ha6y",
@@ -12694,7 +12819,8 @@
       "containerId": null,
       "originalText": "check in \n1. microservice\n2. load balancer\n3. in-memory cache",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "Om0hhtsMf5XTVqrqBk6EY",
@@ -12911,7 +13037,8 @@
       "containerId": null,
       "originalText": "not exhausted",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "J_HZSzy2kZVn080SWUaDg",
@@ -12948,7 +13075,8 @@
       "containerId": null,
       "originalText": "iexhausted",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "gKu9-etolGE0i0Roku_xo",
@@ -12985,7 +13113,8 @@
       "containerId": null,
       "originalText": "throw error 429",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "AAvxvicAFicIa29cNNbe-",
@@ -13022,7 +13151,8 @@
       "containerId": null,
       "originalText": "upload the video \nto BLOB",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "aY7waMjD97vl225NP39Kn",
@@ -13059,7 +13189,8 @@
       "containerId": null,
       "originalText": "autoscale consumers\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "i-pJAfBuYa9ofbTgTBySO",
@@ -13131,7 +13262,8 @@
       "containerId": "i-pJAfBuYa9ofbTgTBySO",
       "originalText": "message queue",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "qs-c2eN9-5USrYu0mTmXO",
@@ -13348,7 +13480,8 @@
       "containerId": null,
       "originalText": "add more \ntranscoding \nworker",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "PjqSQepwVTe7mzlqkMHD_",
@@ -13385,7 +13518,8 @@
       "containerId": null,
       "originalText": "use the \nexisting ones",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "ycoZ_jMwkQWmvcsY_rY3W",
@@ -13422,7 +13556,8 @@
       "containerId": null,
       "originalText": "queue is \nabout to \nfill up",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "isR08FJM-hSx73bTwMtm-",
@@ -13494,7 +13629,8 @@
       "containerId": "isR08FJM-hSx73bTwMtm-",
       "originalText": "transcoding worker",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "vPYPugdGrW0T4ihoOr65Z",
@@ -13566,7 +13702,8 @@
       "containerId": "vPYPugdGrW0T4ihoOr65Z",
       "originalText": "transcoding worker",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "tawaQaI2joopgjGFOmkfP",
@@ -13638,7 +13775,8 @@
       "containerId": "tawaQaI2joopgjGFOmkfP",
       "originalText": "transcoding worker",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "s6DblzIF66lLR7IyvVKPt",
@@ -13675,7 +13813,8 @@
       "containerId": null,
       "originalText": ". . . . .",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "sXdXdwRxVx02dfgCS2v1q",
@@ -13712,7 +13851,8 @@
       "containerId": null,
       "originalText": "1 ....                               n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "6zj4q9MXYhR28Cf3feJ7m",
@@ -13749,7 +13889,8 @@
       "containerId": null,
       "originalText": "priority/tiered queue\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "U6XEZAd_Dpt8z9yejjTMw",
@@ -13821,7 +13962,8 @@
       "containerId": "U6XEZAd_Dpt8z9yejjTMw",
       "originalText": "user",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "hNFQB7gquMtFTOtcWrThu",
@@ -13858,7 +14000,8 @@
       "containerId": null,
       "originalText": "user is premium",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "RsKHZi430jmKCbX97h2Mh",
@@ -13895,7 +14038,8 @@
       "containerId": null,
       "originalText": " push their upload \nto front of the queue",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "1RDK35ZB9WSX-31Lvno5Q",
@@ -13977,7 +14121,8 @@
       "containerId": null,
       "originalText": "parition the message queue\n1. video_size\n2. user (celibrity)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "SvlMasda1cDymX2JHNEF2",
@@ -14014,7 +14159,8 @@
       "containerId": null,
       "originalText": "decouple upload from transcoding",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "ibKzyUact_CSnaJdE-JEB",
@@ -14094,7 +14240,8 @@
       "containerId": "ibKzyUact_CSnaJdE-JEB",
       "originalText": "uploads\nvideo",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "D4qYRQAoV1UfGvz_Ky5UW",
@@ -14226,7 +14373,8 @@
       "containerId": "2EFn5K2c2A4Z5BoR5y6qU",
       "originalText": "BLOB \nstorage",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "_MMhzKAvf0g-ruOXPDVr-",
@@ -14326,7 +14474,8 @@
       "containerId": null,
       "originalText": "send confirmation message\nto user video is uploaded \nand processing can take time\n- transcoding is an async process\n- decoupling upload from transcoding\n- we are not blocking the user\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "aabX59QAxdkn4-q-AcwLE",
@@ -14363,7 +14512,8 @@
       "containerId": null,
       "originalText": "This is a classical case of bounded queue + backpressuer\nbounded queue helps to identify that uploads are happening faster than the rate at which transcoding\nconsumers can consume it",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "twUdoVbsWV1F4mvJ3bdlA",
@@ -14491,7 +14641,8 @@
       "containerId": "SkQlx93RFPKv2cYAKjPNv",
       "originalText": "message queue",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "mHCBjqZQiJmSKnMA3zmt6",
@@ -14567,7 +14718,8 @@
       "containerId": "mHCBjqZQiJmSKnMA3zmt6",
       "originalText": "transcoding worker",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "WftvgQmpzI-jRq0SSyX32",
@@ -14758,7 +14910,8 @@
       "containerId": "AbubwvfWm3qBsD7sUxru_",
       "originalText": "every thiing is async \nfrom this point",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "XpDWrOSjLO0akutQYfz6y",
@@ -14866,7 +15019,8 @@
       "containerId": "_aZHk6tHXv7IIdCXoxwIi",
       "originalText": "video duration",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "-WLE0ridrxtFjr2c5q2_3",
@@ -14942,7 +15096,8 @@
       "containerId": "-WLE0ridrxtFjr2c5q2_3",
       "originalText": "video size",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "w2wY4VFtG0zfhbNKY_sgl",
@@ -15018,7 +15173,8 @@
       "containerId": "w2wY4VFtG0zfhbNKY_sgl",
       "originalText": "celbrity channel",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "q64ZsUAwuLleiWTyeifO6",
@@ -15057,7 +15213,8 @@
       "containerId": null,
       "originalText": "message queue",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "cNyWEY7vUpZTnVONy0Lpc",
@@ -15133,7 +15290,8 @@
       "containerId": "cNyWEY7vUpZTnVONy0Lpc",
       "originalText": "video type (shorts, long video)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "AK_8347ECFRwfiKTU8vWo",
@@ -15141,7 +15299,7 @@
       "x": -3523.0087583108075,
       "y": -673.0702827417246,
       "width": 453.57177734375,
-      "height": 175,
+      "height": 140,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffffff",
@@ -15155,22 +15313,23 @@
       "index": "bBy",
       "roundness": null,
       "seed": 1910271252,
-      "version": 89,
-      "versionNonce": 1645986732,
+      "version": 95,
+      "versionNonce": 245891481,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788352504763,
+      "boundElements": [],
+      "updated": 1788630511288,
       "link": null,
       "locked": false,
-      "text": "\nread:write ratio\n100:1\n\nYoutube is read heavy application",
+      "text": "\nread:write ratio\n\nYoutube is read heavy application",
       "fontSize": 28,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "\nread:write ratio\n100:1\n\nYoutube is read heavy application",
+      "originalText": "\nread:write ratio\n\nYoutube is read heavy application",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
     },
     {
       "id": "_vGpvEn1RBo62Zddyyb8U",
@@ -15178,7 +15337,7 @@
       "x": -7930.03258453006,
       "y": 2925.27346023074,
       "width": 1588.4951171875,
-      "height": 1750,
+      "height": 1645,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffffff",
@@ -15192,22 +15351,137 @@
       "index": "bBz",
       "roundness": null,
       "seed": 1803885833,
-      "version": 1846,
-      "versionNonce": 1891260263,
+      "version": 1849,
+      "versionNonce": 936670630,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1788411019028,
+      "boundElements": [],
+      "updated": 1788718120737,
       "link": null,
       "locked": false,
-      "text": "what possible can go wrong in transcoding process?\n\nstep 1: breaking into chunks\n\n\nproblems\ncutting a chunk in the middle of delta frame sequence\nas chunk has no reference point to decode. You get broken/glitchy\nvider\n\nsolutions\nbefore splitting run ffprobe to list where all the keyframes are. Only cut at those points\nmost tools default to keyframes every 2-4 seconds\n\nstep 2 transcoding each chunk\n\nproblems\n1. a transcoder responsible for transcoding a chunk goes down(server restart, spot instance got reclaimed)\n   1.1 missing chunk. Reassembly either fails or skip silently\n   1.2 retry system again send the chunk for transcoding because the inital worker is slow\n       creates a duplicate chunk\n\n2. chunk is corrupted and keeps crashing the transcoding worker so it retries indefinitely\n\n3. transcoding worker are of different types handles different bitrates and resolutions so they can mix up together\n\nsolution\n\n1. store the status of each chunk (pending,failed,done) in DB so each transcoding worker\nknows wheather to pick up the new chunk or not. If status is failed then give to a \ndifferent worker\n\n2. each chunk will have retry limit\n\n3. before the transcoding process define the bitrate and resolution or group similar transcoder\ntogether so that there chunks are grouped and sent to reassembly\n\n\nstep 3 reassembly \n\nproblem \nalmost all chunks are transcoded but few pending. Reassembly can build the new transcoded file\nwith missing chunks\n\nsolution\nreassembly process starts only when all chunks are available\n\n\n\n",
+      "text": "what possible can go wrong in transcoding process?\n\nstep 1: breaking into chunks\n\n\nproblems\ncutting a chunk in the middle of delta frame sequence\nas chunk has no reference point to decode. You get broken/glitchy\nvider\n\nsolutions\nbefore splitting run ffprobe to list where all the keyframes are. Only cut at those points\nmost tools default to keyframes every 2-4 seconds\n\nstep 2 transcoding each chunk\n\nproblems\n1. a transcoder responsible for transcoding a chunk goes down(server restart, spot instance got reclaimed)\n   1.1 missing chunk. Reassembly either fails or skip silently\n   1.2 retry system again send the chunk for transcoding because the inital worker is slow\n       creates a duplicate chunk\n\n2. chunk is corrupted and keeps crashing the transcoding worker so it retries indefinitely\n\n3. transcoding worker are of different types handles different bitrates and resolutions so they can mix up together\n\nsolution\n\n1. store the status of each chunk (pending,failed,done) in DB so each transcoding worker\nknows wheather to pick up the new chunk or not. If status is failed then give to a \ndifferent worker\n\n2. each chunk will have retry limit\n\n3. before the transcoding process define the bitrate and resolution or group similar transcoder\ntogether so that there chunks are grouped and sent to reassembly\n\n\nstep 3 reassembly \n\nproblem \nalmost all chunks are transcoded but few pending. Reassembly can build the new transcoded file\nwith missing chunks\n\nsolution\nreassembly process starts only when all chunks are available\n",
       "fontSize": 28,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "what possible can go wrong in transcoding process?\n\nstep 1: breaking into chunks\n\n\nproblems\ncutting a chunk in the middle of delta frame sequence\nas chunk has no reference point to decode. You get broken/glitchy\nvider\n\nsolutions\nbefore splitting run ffprobe to list where all the keyframes are. Only cut at those points\nmost tools default to keyframes every 2-4 seconds\n\nstep 2 transcoding each chunk\n\nproblems\n1. a transcoder responsible for transcoding a chunk goes down(server restart, spot instance got reclaimed)\n   1.1 missing chunk. Reassembly either fails or skip silently\n   1.2 retry system again send the chunk for transcoding because the inital worker is slow\n       creates a duplicate chunk\n\n2. chunk is corrupted and keeps crashing the transcoding worker so it retries indefinitely\n\n3. transcoding worker are of different types handles different bitrates and resolutions so they can mix up together\n\nsolution\n\n1. store the status of each chunk (pending,failed,done) in DB so each transcoding worker\nknows wheather to pick up the new chunk or not. If status is failed then give to a \ndifferent worker\n\n2. each chunk will have retry limit\n\n3. before the transcoding process define the bitrate and resolution or group similar transcoder\ntogether so that there chunks are grouped and sent to reassembly\n\n\nstep 3 reassembly \n\nproblem \nalmost all chunks are transcoded but few pending. Reassembly can build the new transcoded file\nwith missing chunks\n\nsolution\nreassembly process starts only when all chunks are available\n\n\n\n",
+      "originalText": "what possible can go wrong in transcoding process?\n\nstep 1: breaking into chunks\n\n\nproblems\ncutting a chunk in the middle of delta frame sequence\nas chunk has no reference point to decode. You get broken/glitchy\nvider\n\nsolutions\nbefore splitting run ffprobe to list where all the keyframes are. Only cut at those points\nmost tools default to keyframes every 2-4 seconds\n\nstep 2 transcoding each chunk\n\nproblems\n1. a transcoder responsible for transcoding a chunk goes down(server restart, spot instance got reclaimed)\n   1.1 missing chunk. Reassembly either fails or skip silently\n   1.2 retry system again send the chunk for transcoding because the inital worker is slow\n       creates a duplicate chunk\n\n2. chunk is corrupted and keeps crashing the transcoding worker so it retries indefinitely\n\n3. transcoding worker are of different types handles different bitrates and resolutions so they can mix up together\n\nsolution\n\n1. store the status of each chunk (pending,failed,done) in DB so each transcoding worker\nknows wheather to pick up the new chunk or not. If status is failed then give to a \ndifferent worker\n\n2. each chunk will have retry limit\n\n3. before the transcoding process define the bitrate and resolution or group similar transcoder\ntogether so that there chunks are grouped and sent to reassembly\n\n\nstep 3 reassembly \n\nproblem \nalmost all chunks are transcoded but few pending. Reassembly can build the new transcoded file\nwith missing chunks\n\nsolution\nreassembly process starts only when all chunks are available\n",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "bjwjABQi9NIgQ73cIl8eP",
+      "type": "text",
+      "x": -7917.615710185785,
+      "y": 4637.738881898209,
+      "width": 1594.487060546875,
+      "height": 1785,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bC0",
+      "roundness": null,
+      "seed": 222580582,
+      "version": 2419,
+      "versionNonce": 62744762,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1788721658555,
+      "link": null,
+      "locked": false,
+      "text": "explain how large video files are uploaded to youtube(multi-part upload)?\n\n1. client sends the video along with the metadata to the server\n2. server verifies the request. If the request valid it creates an upload session and returns a pre-signed URL\n   (resumable upload session URL) pointing directly at the BLOB storage system.\n3. BLOB storage itself handles chunk assembly, resumablitity tracking and integrity checks.\n4. once the video is successfully uploaded BLOB storage/client notifies the server via a lightweight webhook/event\n   that the video is successfully uploaded.\n\n\nHow does BLOB storage enforce integrity during the upload process?\n\n1. the server enforces a max total size at session creation time\n2. cummulative stiched chunk size should not exceed max total size at session creation time\n3. Byte ranges and offsets\n\n    client sends Content-Range header on the incoming request \n    eg: \"this chunk is bytes 40000000000–40000005000\"\n    but the server keeps track of upload session state\n    e.g., \"for session X, I have received and stitched exactly 104,857,600 bytes (100MB), contiguous from offset 0.\"\n\n4. rate limits on max byte that a client send. No uploads over X GB in an hour or day or week etc\n5. verify the clients check sum\n6. check the file type and content\n   The server should only accept certain file extension and also check and sanitize the bytes it receives\n    because a malicious user can rename an executable to video.mp4 and set Content-Type: video/mp4\n\n7. duplicate chunks\n   The client can send(accidentally or maliciously) the same chunk multiple times\n8. verify chunks are send for the correct session\n\n\nWhy chunk client-side instead of just streaming the whole file in one request?\n\n1. resumability\n   If you stream one entire file and it dies at 40GB. You can't resume from 40GB inside \n   a singly HTTP request.\n   discreate chunks with acknowledged offsets let you resume precisely.\n\n2. size limit on request and timeouts on long-lived connection\n   Many load balancers/proxies have max limit on request body size\n\n3. retry granularity\n   Retrying a 5MB chunk is more cheaper and faster than 50GB file\n\n4. parallelism \n   Many chunks can be uplaoded in parallel together\n\n5. progress reporting\n   X% progess is more accuate since you know how many bytes/chunks have been acknowleded\n    ",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "explain how large video files are uploaded to youtube(multi-part upload)?\n\n1. client sends the video along with the metadata to the server\n2. server verifies the request. If the request valid it creates an upload session and returns a pre-signed URL\n   (resumable upload session URL) pointing directly at the BLOB storage system.\n3. BLOB storage itself handles chunk assembly, resumablitity tracking and integrity checks.\n4. once the video is successfully uploaded BLOB storage/client notifies the server via a lightweight webhook/event\n   that the video is successfully uploaded.\n\n\nHow does BLOB storage enforce integrity during the upload process?\n\n1. the server enforces a max total size at session creation time\n2. cummulative stiched chunk size should not exceed max total size at session creation time\n3. Byte ranges and offsets\n\n    client sends Content-Range header on the incoming request \n    eg: \"this chunk is bytes 40000000000–40000005000\"\n    but the server keeps track of upload session state\n    e.g., \"for session X, I have received and stitched exactly 104,857,600 bytes (100MB), contiguous from offset 0.\"\n\n4. rate limits on max byte that a client send. No uploads over X GB in an hour or day or week etc\n5. verify the clients check sum\n6. check the file type and content\n   The server should only accept certain file extension and also check and sanitize the bytes it receives\n    because a malicious user can rename an executable to video.mp4 and set Content-Type: video/mp4\n\n7. duplicate chunks\n   The client can send(accidentally or maliciously) the same chunk multiple times\n8. verify chunks are send for the correct session\n\n\nWhy chunk client-side instead of just streaming the whole file in one request?\n\n1. resumability\n   If you stream one entire file and it dies at 40GB. You can't resume from 40GB inside \n   a singly HTTP request.\n   discreate chunks with acknowledged offsets let you resume precisely.\n\n2. size limit on request and timeouts on long-lived connection\n   Many load balancers/proxies have max limit on request body size\n\n3. retry granularity\n   Retrying a 5MB chunk is more cheaper and faster than 50GB file\n\n4. parallelism \n   Many chunks can be uplaoded in parallel together\n\n5. progress reporting\n   X% progess is more accuate since you know how many bytes/chunks have been acknowleded\n    ",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "qmsplZg2XTBf7VPjt0uZH",
+      "type": "text",
+      "x": -7167.88824042982,
+      "y": 4629.121324774577,
+      "width": 11.199996948242188,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bC1",
+      "roundness": null,
+      "seed": 252495290,
+      "version": 3,
+      "versionNonce": 403835238,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1788718827917,
+      "link": null,
+      "locked": false,
+      "text": "",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "9tYpea_UMRrwjMEVAABF7",
+      "type": "text",
+      "x": -8101.608286972143,
+      "y": 5066.150092525352,
+      "width": 11.199996948242188,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "bC2",
+      "roundness": null,
+      "seed": 1545102650,
+      "version": 3,
+      "versionNonce": 451281382,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1788719915957,
+      "link": null,
+      "locked": false,
+      "text": "",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
     }
   ],
   "appState": {

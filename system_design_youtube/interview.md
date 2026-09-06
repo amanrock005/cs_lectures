@@ -70,6 +70,14 @@ design a youtube like private application but where the number users are 10k
 - do we need to notifiy user on certain events like vido posted - Yes
 - Is the raw upload kept in BLOB permanently, or deleted after transcoding? Worth a one-line decision (usually: keep raw for a while for re-transcode/audit, then lifecycle-delete to save cost).
 
+explain how large video files are uploaded to youtube?
+
+How does BLOB storage enforce integrity during the upload process?
+
+
+Why chunk client-side instead of just streaming the whole file in one request?
+
+
 
 where can youtube break?
 - if user upload videos at higher rate(producer) than the rate at which transcoding takes place(consumer) so the message queue can fillup completely?
