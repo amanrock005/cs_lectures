@@ -82,7 +82,7 @@ Why chunk client-side instead of just streaming the whole file in one request?
 where can youtube break?
 - if user upload videos at higher rate(producer) than the rate at which transcoding takes place(consumer) so the message queue can fillup completely?
 - what possible can go wrong in transcoding process
-- what if the video upload fails midway
+- what can go wrong while uploading a video on youtube
 
 
 how does youtube handles live streaming?
