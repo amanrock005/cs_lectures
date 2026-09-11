@@ -94,3 +94,9 @@ Next live stream
 
 what is vitess how does it work?
 
+during video upload how does youtube checks copyright material and compliances like apprpopiate for kids etc
+
+during vider upload does youtube separately stores video, audio and caption?
+
+with the help of genai the audio can be autodubbed and create subtitles in different langauge how youtube handles it?
+
