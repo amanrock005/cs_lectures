@@ -87,16 +87,27 @@ where can youtube break?
 
 how does youtube handles live streaming?
 
-does youtube keeps the original vider after transcoding has happened?
+What happens if a chunk arrives late or drops? Player either stalls briefly or skips it, doesn't block the whole stream.
+What happens if the streamer's connection drops? Ingest server times out, stream ends, viewers see a "stream ended" state.
+How does a viewer joining mid-stream get in sync fast? They fetch the manifest, which points to the last few chunks, not the whole history.
+
+how does youtube handles live streaming comments?
+
+live streams comments fetched from DB?
+Reading fresh rows from a database for every new chat message, multiplied by tens of thousands of concurrent viewers, doesn't scale, and it also adds latency you don't want for something meant to feel instant. The DB is for durability and catch-up, not the live path. The live path stays entirely in-memory through the pub/sub layer.
+
+does youtube keeps the original vider after transcoding is completed?
+The original is almost certainly moved to cold or archival storage (cheaper, slower-access tiers) once transcoding completes, since it's accessed rarely after initial processing. The transcoded renditions are what actually get served to viewers and cached on the CDN, since those are accessed constantly.
 
 
-Next live stream 
+future live streams
 
 what is vitess how does it work?
 
 during video upload how does youtube checks copyright material and compliances like apprpopiate for kids etc
 
-during vider upload does youtube separately stores video, audio and caption?
+during video upload does youtube separately stores video, audio and caption?
+yes these 3 are stored separetly 
 
 with the help of genai the audio can be autodubbed and create subtitles in different langauge how youtube handles it?
 
