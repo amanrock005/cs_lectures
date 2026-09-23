@@ -108,6 +108,21 @@ during video upload how does youtube checks copyright material and compliances l
 
 during video upload does youtube separately stores video, audio and caption?
 yes these 3 are stored separetly 
+Why keep them separate (interviewers like this part)
+Quality switching: if the internet slows down, the player drops the video from 1080p to 360p without touching the audio.
+No duplicate storage: one audio track is shared by all video qualities, instead of storing audio inside every resolution.
+Multiple languages: the user can switch the audio or caption language without re-downloading the video.
+Captions on/off: they're just text drawn over the video, so turning them on or off costs almost nothing.
+Interview line
+"Video, audio and captions are stored separately and described in a manifest file. The client player reads the manifest, fetches video and audio chunks from the CDN in parallel, loads the caption file, and syncs everything by timestamp. Keeping them separate allows adaptive quality switching, multiple languages and less storage duplication."
 
-with the help of genai the audio can be autodubbed and create subtitles in different langauge how youtube handles it?
+with the help of GenAI the audio can be autodubbed and create subtitles in different langauge how youtube handles it?
+Design points to mention
+Async and separate: the video goes live first, and dubbed tracks show up later. Nothing blocks the upload.
+Cost control: AI is expensive, so don't generate every language for every video. Do the top languages first, prioritize popular videos or channels, or generate a language on demand when viewers ask for it.
+Creator review: the creator can preview, edit or remove the AI tracks before or after they're published.
+Label it: mark tracks as "auto-dubbed" or "auto-generated" so viewers know they were made by AI.
+Reuse: store the transcript once. It also helps search, copyright and safety checks, since those services can read the text too.
+Interview line
+"A separate async AI service takes the audio, converts it to a timestamped transcript, translates it, and uses text-to-speech to make dubbed audio. Each result is stored as a new caption or audio track, and the manifest is updated, so the player just shows extra language options. To control cost, we generate languages for popular videos first or on demand, and creators can review the output."
 
