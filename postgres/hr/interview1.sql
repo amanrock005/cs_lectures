@@ -1,3 +1,8 @@
+show search_path;
+SET search_path TO hr, public;
+ALTER ROLE postgres SET search_path TO hr, public;
+
+
 -- find the highest salaried employee
 select *
 from employees 
@@ -53,23 +58,29 @@ on e.department_id = d.department_id;
 
 -- find the manager of all the employee
 select 
- e.em
+ e.employee_id,
+ e.first_name,
+ m.employee_id,
+ m.first_name
 from employees e
 join employees m
 on e.manager_id = m.employee_id;
 
--- the avg salary of each department
-select * from employees;
+-- Q1. Second highest salary
+-- Find the second highest distinct salary in the company. Then extend it to return the employees who earn it.
+select distinct salary
+from employees 
+where salary is not null
+order by salary desc
+offset 1 limit 1; -- returns the second highest salary number and not the employee detail(s)
 
-select avg(salary)
-from employees;
-
-select 
- department_id,
- avg(salary)
-from employees
--- where department_id is not null
-group by department_id;
+select *
+from employees 
+where salary = (
+ select max(salary)
+ from employees 
+ where salary < (select max(salary) from employees)
+);
 
 -- List employees who earn more than the average salary of their own department. Show employee name, department name, salary and the department average.
 select *
@@ -96,43 +107,7 @@ join (
 on da.department_id = e.department_id
 where e.salary > dept_avg_sal;
 
--- window function calcuales the average in one pass
--- explain how this query is able to compute the final answer in one pass
-select 
- first_name,
- department_name,
- salary,
- round(avg_sal, 2) as dept_avg_salary
-from (
- select 
-  e.*,
-  d.department_name,
-  avg(e.salary) over (partition by e.department_id) as avg_sal
- from employees e
- join departments d
-   on e.department_id = d.department_id
-) t
-where salary > avg_sal;
 
 -- Manager hierarchy: For each employee, show their name and their manager's name. Include employees with no manager, such as the CEO.
 
 -- Departments with no employees: List every department that has no employees, along with its city and country name.
-select * from departments; -- total 27 department
-select distinct(department_id) from employees; -- total 12 excluding null we have 11 dept
-
-select * from departments
-where department_id not in (select distinct(department_id) from employees where department_id is not null);
-
-select 
- d.department_id,
- d.department_name,
- l.city,
- c.country_name
-from departments d
-left join employees e
-on d.department_id = e.department_id
-left join locations l
-on d.location_id = l.location_id
-left join countries c
-on l.country_id = c.country_id
-where e.employee_id is null;
